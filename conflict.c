@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int main() {
-    printf("This is a conflict file.\n");
+    printf("For the test, This is a conflict file.\n");
 
     return 0;
 }
